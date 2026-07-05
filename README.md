@@ -248,6 +248,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Inspired by the YouTube tutorial on Invoice Intelligence ML Project
 - Built with Scikit-Learn, Streamlit, and DuckDB
 - SHAP for model explainability

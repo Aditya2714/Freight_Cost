@@ -1,4 +1,4 @@
-# 📊 Vendor Invoice Intelligence (VII)
+# 📊 Vendor Invoice Intelligence System (VII)
 
 ### End-to-End Machine Learning System for Freight Cost Prediction & Invoice Risk Detection
 
